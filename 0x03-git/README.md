@@ -1,1 +1,1 @@
-I love training git
+training git is very helpful
